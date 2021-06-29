@@ -1,3 +1,3 @@
 # Calculator
 
-Calculator using Dijkstra's Algorithm 
+Calculator using Dijkstra's Algorithm.
